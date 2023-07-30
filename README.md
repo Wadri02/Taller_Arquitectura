@@ -1,3 +1,6 @@
+# Arquitectura de Ordenadores
+Grupo 5 validado
+
 
 # Arquitectura de Ordenadores ///
 #Grupo 1
@@ -16,3 +19,4 @@ $ git clone https://github.com/JuanPa90Cap/Taller_Arquitectura
 ```
 ## Preview project
 <img src="./assets//preview.png" alt="Preview project" width="400" />
+
