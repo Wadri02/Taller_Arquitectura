@@ -229,4 +229,5 @@ let myChartDisk = new Chart(ctx3, {
 	chart.data.labels.push(date);
 	chart.data.datasets[0].data.push(data1);
 	chart.update();
+	
   }
