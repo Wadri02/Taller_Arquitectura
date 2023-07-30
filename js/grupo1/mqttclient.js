@@ -26,6 +26,7 @@ let prevCPUValue = 0;
 let prevMemoryValue = 0;
 let prevDiskValue = 0;
 
+
 client.onMessageArrived = function (message) {
 	let destination = message.destinationName;
 	if (destination === "probar_1") {
